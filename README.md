@@ -12,7 +12,9 @@ Setup Instructions
 1. Install this GDRIVE Link: https://drive.google.com/drive/folders/1k06r9eNciRkWIkfM0nGhvcl4YSzkCaHr?usp=drive_link
 2. Download and extract neccessary files
 
-3. Install Dependencies
+3. Once installed, Run the program
+
+4. ![image](https://github.com/user-attachments/assets/69c3eac6-6e42-4435-8f23-5e4536e39817)
 
 Backend (Server)
 
